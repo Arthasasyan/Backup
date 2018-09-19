@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Rider\projects\Backup" t="IncludeRecursive">
+      <e p="Backup.csproj" t="IncludeRecursive" />
+      <e p="Backup.sln" t="IncludeFlat" />
+      <e p="Backuper.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Logger.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Settings.cs" t="Include" />
+      <e p="settings.json" t="Include" />
+    </e>
+    <e p="C:\Users\Пользователь\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Backup.-598950091.00" t="ExcludeRecursive" />
+  </component>
+</project>
