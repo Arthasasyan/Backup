@@ -1,0 +1,6 @@
+C:\Rider\projects\Backup\bin\Debug\Backup.exe
+C:\Rider\projects\Backup\bin\Debug\Backup.pdb
+C:\Rider\projects\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+C:\Rider\projects\Backup\obj\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Rider\projects\Backup\obj\Debug\Backup.exe
+C:\Rider\projects\Backup\obj\Debug\Backup.pdb

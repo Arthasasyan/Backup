@@ -1,0 +1,8 @@
+11.08.2018 17:46:09 Info: New session
+11.08.2018 17:46:09 Info: Backup started
+11.08.2018 17:46:54 Info: New session
+11.08.2018 17:46:54 Info: Backup started
+11.08.2018 17:47:53 Info: New session
+11.08.2018 17:47:53 Info: Backup started
+11.08.2018 17:47:53 Debug: C:\Rider\projects\Backup\bin\Debug backuped
+11.08.2018 17:47:53 Info: Backup ended

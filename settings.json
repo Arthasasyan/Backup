@@ -1,0 +1,7 @@
+{
+  "BackupDir":"C:\\Tests",
+  "DirsToBackup":[
+    "C:\\Tests\\RSSReader"
+  ],
+  "LoggerPath":"C:\\Rider\\projects\\Backup\\log.txt"
+}

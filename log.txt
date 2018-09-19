@@ -1,0 +1,38 @@
+11.08.2018 19:46:27 Info: New session
+11.08.2018 19:46:27 Info: Backup started
+11.08.2018 19:46:27 Debug: C:\Rider\projects\Backup\bin\Debug backuped
+11.08.2018 19:46:27 Debug: C:\Rider\projects\CodeBusters_bot\CodeBusters_bot\bin\Debug backuped
+11.08.2018 19:46:27 Info: Backup ended
+
+11.08.2018 21:36:51 Info: New session
+11.08.2018 21:36:51 Info: Backup started
+11.08.2018 21:36:51 Debug: C:\Rider\projects\Backup\bin\Debug backuped
+11.08.2018 21:36:51 Debug: C:\Rider\projects\CodeBusters_bot\CodeBusters_bot\bin\Debug backuped
+11.08.2018 21:36:51 Info: Backup ended
+
+12.08.2018 12:05:40 Info: New session
+12.08.2018 12:05:40 Info: Backup started
+12.08.2018 12:05:40 Debug: C:\Rider\projects\Backup\bin\Debug backuped
+12.08.2018 12:05:40 Debug: C:\Rider\projects\CodeBusters_bot\CodeBusters_bot\bin\Debug backuped
+12.08.2018 12:05:40 Info: Backup ended
+
+13.08.2018 23:06:25 Info: New session
+13.08.2018 23:06:25 Info: Backup started
+13.08.2018 23:06:25 Debug: C:\Tests\Backup backuped
+13.08.2018 23:06:25 Info: Backup ended
+
+20.08.2018 18:22:35 Info: New session
+20.08.2018 18:22:35 Info: Backup started
+20.08.2018 18:22:35 Debug: C:\Tests\RSSReader backuped
+20.08.2018 18:22:35 Info: Backup ended
+
+20.08.2018 18:22:40 Info: New session
+20.08.2018 18:22:40 Info: Backup started
+20.08.2018 18:22:40 Debug: C:\Tests\RSSReader backuped
+20.08.2018 18:22:40 Info: Backup ended
+
+20.08.2018 18:22:55 Info: New session
+20.08.2018 18:22:55 Info: Backup started
+20.08.2018 18:22:55 Debug: C:\Tests\RSSReader backuped
+20.08.2018 18:22:55 Info: Backup ended
+

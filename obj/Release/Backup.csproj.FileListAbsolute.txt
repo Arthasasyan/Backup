@@ -1,0 +1,6 @@
+C:\Rider\projects\Backup\bin\Release\Backup.exe
+C:\Rider\projects\Backup\bin\Release\Backup.pdb
+C:\Rider\projects\Backup\obj\Release\Backup.csprojResolveAssemblyReference.cache
+C:\Rider\projects\Backup\obj\Release\Backup.csproj.CoreCompileInputs.cache
+C:\Rider\projects\Backup\obj\Release\Backup.exe
+C:\Rider\projects\Backup\obj\Release\Backup.pdb
